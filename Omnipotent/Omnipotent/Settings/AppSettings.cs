@@ -6,7 +6,7 @@ namespace Omnipotent.Settings
 {
     public class AppSettings
     {
-        private const string DefaultBaseEndpoint = "https://omnipotent-2414e.firebaseio.com/users/CUdDVxqii8PemLc1bc8E.json";
+        private const string DefaultBaseEndpoint = "";
         private static ISettings Settings => CrossSettings.Current;
 
 
